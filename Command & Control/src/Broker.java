@@ -1,5 +1,4 @@
 /* Author: Hamza Mughees
- * Student ID: 17329860
  * Broker function:
  * contains the list of available workers
  * waits for new workers to volunteer to work by receiving their names

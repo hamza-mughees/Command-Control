@@ -1,5 +1,4 @@
 /* Author: Hamza Mughees
- * Student ID: 17329860
  * C&C function:
  * asks for number of workers (gets response)
  * asks do you want to send a task (y/n)?

@@ -1,5 +1,4 @@
 /* Author: Hamza Mughees
- * Student ID: 17329860
  * Worker function:
  * a new worker is available every time this runs
  * takes a name as an input
